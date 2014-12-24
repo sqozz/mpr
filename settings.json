@@ -1,5 +1,4 @@
 {
-	"mpdMusicRoot" : "/data/music",
 	"mpdHost" : "10.42.0.4",
 	"mpdPort" : "6600"
 }
