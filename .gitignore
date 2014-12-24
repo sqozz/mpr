@@ -1,3 +1,6 @@
+# MPR specific
+ratingDatabase.sqlite
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
